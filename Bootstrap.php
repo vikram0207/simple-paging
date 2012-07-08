@@ -9,7 +9,7 @@
  * @version 1.0
  */
 
-require_once 'configs/configs.php';
-require_once 'classes/Mysql.php';
-require_once 'classes/DbHandler.php';
-require_once 'classes/Paging.php';
+require_once 'Configs/Configs.php';
+require_once 'Classes/Mysql.php';
+require_once 'Classes/DbHandler.php';
+require_once 'Classes/Paging.php';
